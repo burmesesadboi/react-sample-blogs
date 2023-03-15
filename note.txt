@@ -1,0 +1,20 @@
+1. React-router-v6
+2. Basic
+3. NavLink(end), Link
+4. Nested Route, Outlet
+5. useNavigate()
+6. useLocation()
+7. Refactoring
+8. json-server
+
+Mini-Project
+1. import css
+2. react hook (lifeCycle)
+3. react router dom
+4. json-server
+5. react-icons
+
+Color Principle
+
+-> 3 ခု 70%, 20%, 10%
+-> 3 ခု 60% (Primary Color), 30% (Secondary Color), 10%
